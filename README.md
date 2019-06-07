@@ -1,5 +1,5 @@
 # Image-Classifier-using-Pytorch
-A Deep Neural network was employed using Pytorch framework to classify among 28 X 28 grayscale images of clothes. 
+A Deep Neural network was employed using Pytorch framework to classify among 28 X 28 grayscale images of clothing accessories. 
 ### Labels
 Each training and test example is assigned to one of the following labels:
 
