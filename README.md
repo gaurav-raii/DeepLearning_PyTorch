@@ -1,5 +1,6 @@
 # Image-Classifier-using-Pytorch
 A Deep Neural network was employed using Pytorch framework to classify among 28 X 28 grayscale images of clothing accessories. 
+The network employed has input layer with 784 units, 3 hidden layers with sizes 256,128,64. The output layer is a softmax layer having 10 units.
 ### Labels
 Each training and test example is assigned to one of the following labels:
 
