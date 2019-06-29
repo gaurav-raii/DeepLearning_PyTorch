@@ -18,3 +18,6 @@ Each training and test example is assigned to one of the following labels:
 | 7 | Sneaker |
 | 8 | Bag |
 | 9 | Ankle boot |
+
+# Dropout Regulaization on Image Classifier
+* A second notebook called Inference and Validation has the same classifier from the first part but in this part dropout regularization has been employed to prevent the Neural network to overfit the training data also it has been validated and training and validation losses were plotted for the regularized as well as un regularized model.
