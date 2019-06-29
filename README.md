@@ -21,4 +21,4 @@ Each training and test example is assigned to one of the following labels:
 
 # Dropout Regularization on Image Classifier Deep Neural Network model
 * A second notebook called Inference and Validation has the same classifier from the first part but in this part dropout regularization has been employed to prevent the Neural network to overfit the training data also it has been validated and training and validation losses were plotted for the regularized as well as un regularized model.
-* The Dropout ratio was 0.2 (i.e 20 % of the weights were randomly assigned to zero)
+* The Dropout rate was 0.2 (i.e 20 % of the weights were randomly assigned to zero)
