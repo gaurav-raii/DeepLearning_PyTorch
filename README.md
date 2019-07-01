@@ -25,3 +25,6 @@ Each training and test example is assigned to one of the following labels:
 
 # Saving and Loading model weights.
 * A third notebook named saving and loading model weights has the code to show how the weights of model which we developed in the last notebook can be saved once the model is trained and how those values can be updated to the model directly without training the model again. This is a very useful technique since training a model again and again everytime we want to use the model for prediction is inefficient.
+
+# Loading Image Data
+* A fourth notebook contains the code to preprocess and load the image data using pytorch before using it for training our model.
