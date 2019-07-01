@@ -22,3 +22,6 @@ Each training and test example is assigned to one of the following labels:
 # Dropout Regularization on Image Classifier Deep Neural Network model
 * A second notebook called Inference and Validation has the same classifier from the first part but in this part dropout regularization has been employed to prevent the Neural network to overfit the training data also it has been validated and training and validation losses were plotted for the regularized as well as un regularized model.
 * The Dropout rate was 0.2 (i.e 20 % of the weights were randomly assigned to zero)
+
+# Saving and Loading model weights.
+* A third notebook named saving and loading model weights has the code to show how the weights of model which we developed in the last notebook can be saved once the model is trained and how those values can be updated to the model directly without training the model again. This is a very useful technique since training a model again and again everytime we want to use the model for prediction is inefficient.
